@@ -21,7 +21,7 @@ const Navigate = () => {
           <Box padding={1}>
             <Text>
               You can upload a new document, which will be indexed for searching
-              and saved to file storage. (Try it!)
+              and saved to file storage. (Try it! 2)
             </Text>
           </Box>
           <Box padding={1}>
